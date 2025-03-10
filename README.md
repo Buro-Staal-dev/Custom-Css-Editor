@@ -7,7 +7,7 @@ Enhances the WordPress CSS editor with syntax highlighting and better editing ca
 
 ## Description
 
-The Buro Staal CSS Editor improves the default WordPress CSS editing experience by providing:
+The Enhanced CSS Editor improves the default WordPress CSS editing experience by providing:
 
 * Syntax highlighting for CSS
 * Line numbers
@@ -41,7 +41,7 @@ Yes, this plugin works with any WordPress theme as it only enhances the built-in
 
 ## Privacy Policy
 
-Buro Staal CSS Editor does not collect, store, or share any personal data.
+Enhanced CSS Editor does not collect, store, or share any personal data.
 
 ## Development
 
