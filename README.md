@@ -1,4 +1,4 @@
-# Buro Staal CSS Editor
+# Enhanced CSS Editor
 
 ![WordPress Plugin](https://img.shields.io/badge/WordPress-6.4+-blue.svg)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-purple.svg)
@@ -19,7 +19,7 @@ This plugin is perfect for developers and site builders who frequently work with
 
 ## Installation
 
-1. Upload the plugin files to the `/wp-content/plugins/burostaal-css-editor` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/enhanced-css-editor` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. The enhanced CSS editor will automatically activate in the Customizer and Full Site Editor
 
